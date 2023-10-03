@@ -35,8 +35,8 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 -->
-<img src="https://wallpapercave.com/wp/wp4462135.png" min-width="200px" max-width="400px" width="400px" align="right" alt="DEV">
 
+<img src="https://wallpapercave.com/wp/wp4462135.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Imagem" style="opacity: 0.5;">
 <!--
 #### Secondary Stack:
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
