@@ -11,16 +11,6 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 - 2 anos em suporte, implantação de sistemas e migração de bancos de dados.
 - 2 anos como desenvolvedor.
 
-## Habilidades
-
-- Linguagens: Java, Python.
-- Banco de dados: PostgreSQL.
-
-## Objetivos
-
-- Absorver conhecimento a curto prazo e especializar-me em uma área específica.
-- Tornar-me especialista a longo prazo e realizar com excelência qualquer tarefa.
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PeduCosta17&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-PeduCosta17.vercel.app/api/top-langs/?username=PeduCosta17&show_icons=true&theme=radical&layout=compact" />
@@ -28,8 +18,6 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -67,16 +55,17 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![eclipseide](https://img.shields.io/badge/eclipseide-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/eclipse-E95420?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 
 
 &nbsp;
 &nbsp;
+
+## Objetivos
+
+- Absorver conhecimento a curto prazo e especializar-me em uma área específica.
+- Tornar-me especialista a longo prazo e realizar com excelência qualquer tarefa.
 
 ## Contacts:
 
