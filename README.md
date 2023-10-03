@@ -56,10 +56,9 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 #### Workstation Tools:
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/eclipse-E95420?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-E95420?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-E95420?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Movidesk](https://img.shields.io/badge/movidesk-E95420?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/eclipse-E95420?style=for-the-badge&logo=eclipse&logoColor=green)&nbsp;
+![Jira](https://img.shields.io/badge/jira-E95420?style=for-the-badge&logo=jira&logoColor=red)&nbsp;
+![Movidesk](https://img.shields.io/badge/movidesk-E95420?style=for-the-badge&logo=movidesk&logoColor=gray)&nbsp;
 ![Py Charm](https://img.shields.io/badge/pycharm-E95420?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
 
@@ -74,11 +73,10 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/peducosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:peducosta17@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://github.com/PeduCosta17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
