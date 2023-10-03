@@ -57,6 +57,10 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/eclipse-E95420?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-E95420?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-E95420?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Movidesk](https://img.shields.io/badge/movidesk-E95420?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
+![Py Charm](https://img.shields.io/badge/pycharm-E95420?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
 
 &nbsp;
