@@ -55,11 +55,11 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 
 #### Workstation Tools:
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/eclipse-B95230?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-E95420?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Movidesk](https://img.shields.io/badge/movidesk-C95650?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
-![Py Charm](https://img.shields.io/badge/pycharm-D33420?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/slack-FFAC33?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/eclipse-6A1B9A?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Movidesk](https://img.shields.io/badge/movidesk-F68E28?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
+![Py Charm](https://img.shields.io/badge/pycharm-39FF14?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
 
 &nbsp;
