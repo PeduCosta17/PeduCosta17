@@ -28,7 +28,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; 
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp; 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
@@ -56,9 +56,9 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 #### Workstation Tools:
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/eclipse-E95420?style=for-the-badge&logo=eclipse&logoColor=green)&nbsp;
-![Jira](https://img.shields.io/badge/jira-E95420?style=for-the-badge&logo=jira&logoColor=red)&nbsp;
-![Movidesk](https://img.shields.io/badge/movidesk-E95420?style=for-the-badge&logo=movidesk&logoColor=gray)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/eclipse-E95420?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-E95420?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Movidesk](https://img.shields.io/badge/movidesk-E95420?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
 ![Py Charm](https://img.shields.io/badge/pycharm-E95420?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
 
