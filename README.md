@@ -57,7 +57,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/eclipse-B95230?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-A94320?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Jira]([https://img.shields.io/badge/jira-A94320?style=for-the-badge&logo=jira&logoColor=white](https://camo.githubusercontent.com/35e11e06e4198d1ade41f868a377efe1abc0d85078f92d55c078b972d4240ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465)&nbsp;
 ![Movidesk](https://img.shields.io/badge/movidesk-C95650?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
 ![Py Charm](https://img.shields.io/badge/pycharm-D33420?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
