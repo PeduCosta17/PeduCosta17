@@ -36,13 +36,14 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 -->
 
-<img src="https://wallpapercave.com/wp/wp4462135.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Imagem" style="opacity: 0.5;">
+<img src="https://wallpapercave.com/wp/wp4462135.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Imagem" style="opacity: 0.1;">
 <!--
 #### Secondary Stack:
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 -->
+
 #### Studying in this moment:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
