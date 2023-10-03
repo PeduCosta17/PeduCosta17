@@ -12,9 +12,9 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 - 2 anos como desenvolvedor.
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PeduCosta17&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-PeduCosta17.vercel.app/api/top-langs/?username=PeduCosta17&show_icons=true&theme=radical&layout=compact" />
- </div>
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PeduCosta17&theme=radical&mode=weekly" />
+ <img width=40% align="center" src="https://github-readme-stats-git-main-PeduCosta17.vercel.app/api/top-langs/?username=PeduCosta17&show_icons=true&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
@@ -37,7 +37,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 -->
 
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEwk9Xu4Kqb0ybcxyEDzPwWv2H_pbN29RwgIJuclZZKS0KgIw9cMmZhLV833t5qV32EE&usqp=CAU" min-width="169px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://images8.alphacoders.com/115/1156488.png" min-width="200px" max-width="400px" width="400px" align="right" alt="DEV">
 
 <!--
 #### Secondary Stack:
