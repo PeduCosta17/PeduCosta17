@@ -55,7 +55,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 
 #### Workstation Tools:
 
-![Slack](https://img.shields.io/badge/slack-FFAC33?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/slack-FF0000?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/eclipse-6A1B9A?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Movidesk](https://img.shields.io/badge/movidesk-F68E28?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
