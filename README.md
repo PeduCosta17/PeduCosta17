@@ -35,9 +35,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 -->
-
-<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-<img src="https://images8.alphacoders.com/115/1156488.png" min-width="200px" max-width="400px" width="400px" align="right" alt="DEV">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3aLUaX_jnGMgkKzeQInxV-k4bUawKUc_2G-0P1ZLFDTq3dUDPLKxIovzz6a5BzohaYI&usqp=CAU" min-width="200px" max-width="400px" width="400px" align="right" alt="DEV">
 
 <!--
 #### Secondary Stack:
