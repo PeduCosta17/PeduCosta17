@@ -37,7 +37,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 -->
 
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-<img src="https://postergami.com/wp-content/uploads/2021/10/papel-de-parede-code-life-169x300.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://postergami.com/wp-content/uploads/2021/10/papel-de-parede-code-life-169x300.jpg" min-width="169px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <!--
 #### Secondary Stack:
