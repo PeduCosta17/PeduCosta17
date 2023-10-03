@@ -22,7 +22,7 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ## My Skills
 
 #### Main Stack:
-![Python](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -60,7 +60,8 @@ Formado em Ciência da Computação, sou um desenvolvedor experiente com habilid
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Movidesk](https://img.shields.io/badge/movidesk-F68E28?style=for-the-badge&logo=movidesk&logoColor=white)&nbsp;
 ![Py Charm](https://img.shields.io/badge/pycharm-39FF14?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
-
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![pgAmin](https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
